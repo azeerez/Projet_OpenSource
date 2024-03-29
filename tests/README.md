@@ -1,4 +1,4 @@
-# @azeer/Projet
+# @azeerez/Projet
 ## Installation
 ### NPM
 
